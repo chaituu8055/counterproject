@@ -1,2 +1,2 @@
 # counterproject
-Simple Counter Project
+Simple Counter Project created Using Html, CSS, JavaScript
